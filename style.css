@@ -126,8 +126,8 @@ nav.sticky .menu-btn{
 }
 .home .text-two{
   color: #0E2431;
-  font-size: 85px;
-  font-weight: 600;
+  
+  font-size:35px;
   margin-left: -3px;
 }
 .home .text-three{
@@ -159,6 +159,12 @@ nav.sticky .menu-btn{
   border-color: #4070f4;
   background-color: #fff;
   color: #4070f4;
+}
+/* work*/
+#profile{
+	border-radius:10px 0px 10px 0px;
+	position:relative;
+	Top:120px;
 }
 /* About Section Styling */
 /* Those Elements Where We Have Apply Same CSS,
@@ -458,7 +464,7 @@ footer .text span a:hover{
     display: block;
   }
   .home .text-two{
-    font-size: 35px;
+    font-size:25px;
   }
   .home .text-three{
     font-size: 35px;
@@ -487,7 +493,7 @@ footer .text span a:hover{
 }
 @media (max-width: 500px){
   .home .text-two{
-    font-size: 25px;
+    font-size:20px;
   }
   .home .text-three{
     font-size: 33px;
